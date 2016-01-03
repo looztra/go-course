@@ -1,0 +1,6 @@
+= Go Course Exercises
+
+== What?
+
+My workspace for the exercices of the _Go Course_ available at http://courses.rubylearning.org
+
