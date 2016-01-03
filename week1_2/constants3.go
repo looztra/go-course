@@ -1,4 +1,6 @@
 package main
+//Declare an untyped and typed constant and display their values.
+//Multiply two literal constants into a typed variable and display the values of both the constants and variables.
 import "fmt"
 
 func main() {
